@@ -1,0 +1,3 @@
+[submodule "ext/midifile"]
+	path = ext/midifile
+	url = https://github.com/craigsapp/midifile.git
